@@ -1,0 +1,11 @@
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\bin\Debug\smartscreen.exe.config
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\bin\Debug\smartscreen.exe
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\bin\Debug\smartscreen.pdb
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\bin\Debug\smartscreen.xml
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\smartscreen.Form1.resources
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\smartscreen.Resources.resources
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\BLACKSTAR.vbproj.GenerateResource.cache
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\BLACKSTAR.vbproj.CoreCompileInputs.cache
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\smartscreen.exe
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\smartscreen.xml
+C:\Users\Leeraoy.Jenkins\source\repos\smartscreen\obj\Debug\smartscreen.pdb
